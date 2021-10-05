@@ -40,7 +40,7 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 
 📊 **My Github Most Used Language:**
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandadwipra&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeycod3&theme=vue">
 
 <!--END_SECTION:waka-->
 
@@ -59,4 +59,4 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anandadwipra&show_icons=true&theme=gotham" alt="anandadwipra" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monkeycod3&show_icons=true&theme=gotham" alt="anandadwipra" />
